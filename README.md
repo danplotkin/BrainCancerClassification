@@ -14,3 +14,15 @@ We will be using the VGG11_bn convolutional neural network to fine-tuning the pr
 
 The [dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) used in this project contains brain MRI scans of patients with different types of tumors, including glioma, meningioma, and pituitary tumors. This project will demonstrate how Deep Learning and Computer Vision is used in cancer research.
 
+# Results
+
+Our final model had a 94.28% accuracy to unseen data.
+
+# Read Article
+
+To view the article published on Medium, follow [this link](https://medium.com/@danya1526/classifying-brain-cancer-tumors-with-pytorch-6ff1a26164f9). 
+
+# View Source Code
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/BrainCancerClassification/blob/main/brain_cancer_classification.ipynb)
+
