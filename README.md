@@ -14,5 +14,3 @@ We will be using the VGG11_bn convolutional neural network to fine-tuning the pr
 
 The [dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) used in this project contains brain MRI scans of patients with different types of tumors, including glioma, meningioma, and pituitary tumors. This project will demonstrate how Deep Learning and Computer Vision is used in cancer research.
 
-# Source Code
-
