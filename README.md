@@ -16,7 +16,7 @@ The [dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-d
 
 ### Results
 
-Our final model had a 94.97% accuracy to unseen data.
+Our final model had a 95.88% accuracy to unseen data.
 
 ### Read Article
 
